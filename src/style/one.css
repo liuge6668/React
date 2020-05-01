@@ -1,0 +1,8 @@
+#root{
+  display: flex;
+  height: 300px;    
+   background-color: aqua;
+}
+.img{
+  background-image: url('../public/favicon.ico');
+}
